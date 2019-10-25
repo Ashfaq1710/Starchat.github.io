@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/home.css">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<style type="text/css" media="screen">
+
+
+#footer{
+    background: #e0e0e0;
+    padding: 20px 0px;
+}
+
+#footer a{
+     color: #999999;
+    padding: 0px 0px;
+    text-decoration: none;
+
+}
+#footer a:hover{
+    color: #666666;
+}
+#footer ul a:hover{
+    color: #666666;
+
+}
+#footer .social{
+    text-align: left;
+
+}
+#footer .social a{
+    margin: 0px 10px 0px 0px;
+    display: inline-block;
+    color: #ffffff;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    line-height: 30px;
+    font-size: 15px;
+    text-align: center;
+    vertical-align: bottom;
+    background: #555555;
+
+}
+#footer .social a:hover{
+    color: #dedede;
+    background: #777777;
+}
+
+
+/* copy right */
+
+#copyright{
+    background: #333333;
+    color: #cccccc;
+    padding: 20px 0px;
+    font-size: 12px;
+}
+#copyright p{
+    margin: 0px;
+}
+
+
+
+	
+</style>
+
+
+</head>
+<body>
+
+<div id="footer">
+	<div class="container">
+		
+		
+
+		<div class="col-sm-6 col-md-3 pull-left">
+			<h4>Find Us</h4>
+			<p>
+				<strong>Star Chat</strong>
+				
+				<br>Pratapgarh
+				<br>+9177-8500-1580
+				<br>ashfaqalam146@gmail.com
+				<br><strong>Mr.Ashfaq Alam</strong>
+
+
+			</p>
+			<a href="contact.php">Check Our Contact Page</a>
+			<hr class="hidden-md hidden-lg hidden-sm">
+
+
+		</div>
+		<div class="col-sm-6 col-md-3 text-center">
+			<h4>Get The News</h4>
+			<p class="text-muted">
+				Im Passout BCA Form Mohammad Ali Jauhar University....
+				
+			</p>
+		</div>
+			<div class="col-sm-6 col-md-3 pull-right">
+			<h4>Keep In Touch</h4>
+			<p class="social">
+				<a href="" class="fa fa-facebook"></a>
+				<a href="" class="fa fa-twitter"></a>
+				<a href="" class="fa fa-instagram"></a>
+				<a href="" class="fa fa-google-plus"></a>
+				<a href="" class="fa fa-envelope"></a>
+			</p>
+		</div>
+
+
+	</div>
+</div>
+<!-- copy righr -->
+<div id="copyright">
+	<div class="container">
+		<div class="col-md-6">
+			<p class="pull-left">&copy; 2019 Star Shop All Right Reserve</p>
+
+		</div>
+		<div class="col-md-6">
+			<p class="pull-right">&copy; Theme by: <a href="">Mr.Ashfaq Alam</a></p>
+		</div> 
+	</div>
+</div>
+
+</body>
+</html>

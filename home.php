@@ -198,4 +198,8 @@ else{ ?>
 
 </body>
 </html>
-<?php } ?>
+<?php } 
+
+include("include/footer.php");
+
+?>

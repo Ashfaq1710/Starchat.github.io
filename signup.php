@@ -68,4 +68,7 @@
     </form>
 	<div class="text-center small" style="color:#67428B;">Alraidy have an account? <a href="signin.php">Signin here</a></div>
 </div>
+<!-- footer -->
+<?php include("include/footer.php"); ?>
+</body>
 </html>

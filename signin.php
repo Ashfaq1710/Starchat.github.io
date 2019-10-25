@@ -35,4 +35,8 @@
     </form>
 	<div class="text-center small" style='color:#67428B;'>Don't have an account? <a href="signup.php">Create one</a></div>
 </div>
+
+</body>
 </html>
+<!-- footer -->
+<?php include("include/footer.php"); ?>
